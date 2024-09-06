@@ -1,0 +1,42 @@
+All beers over 6.0%
+
+Beer Name          : Ayinger Celebrator Doppelbock
+Beer Style         : Doppelbock
+Country            : Germany
+Alcohol Percentage : 6.7
+
+Beer Name          : Ballantine IPA
+Beer Style         : IPA
+Country            : United States
+Alcohol Percentage : 7.2
+
+Beer Name          : Chimay Blue
+Beer Style         : Belgian Strong Ale
+Country            : Belgium
+Alcohol Percentage : 9.0
+
+Beer Name          : Dogfish Head 90 Minute IPA
+Beer Style         : IPA
+Country            : United States
+Alcohol Percentage : 9.0
+
+Beer Name          : Leffe Blonde
+Beer Style         : Belgian Blonde Ale
+Country            : Belgium
+Alcohol Percentage : 6.6
+
+Beer Name          : Leffe Brune
+Beer Style         : Dubbel
+Country            : Belgium
+Alcohol Percentage : 6.5
+
+Beer Name          : Red Horse Beer
+Beer Style         : Strong Pale Lager
+Country            : Philippines
+Alcohol Percentage : 6.9
+
+Beer Name          : Sierra Nevada Torpedo Extra IPA
+Beer Style         : IPA
+Country            : United States
+Alcohol Percentage : 7.2
+
